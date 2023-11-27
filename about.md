@@ -1,6 +1,7 @@
 ---
 title: About
-layout: page
+layout: page 
+dark-theme: on
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
